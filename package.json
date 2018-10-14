@@ -1,6 +1,6 @@
 {
   "name": "@shipzone/desktopconfig",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "configure desktop workstations according to company guidelines",
   "main": "dist/index.js",
